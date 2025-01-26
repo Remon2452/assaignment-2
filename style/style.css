@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .logo-1{
+    width: 39px;
+    margin-bottom: auto;
+    margin-top: auto;
+  }
+  .name{
+position: absolute;
+width: 80px;
+height: 30px;
+left: 74px;
+top: 24px;
+color: rgb(17, 17, 17);
+font-family: Quicksand;
+font-size: 22px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+  }
