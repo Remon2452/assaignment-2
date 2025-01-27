@@ -449,8 +449,6 @@ text-align: left;
 .view-all:hover {
   background: #333;
 }
-
-/* Responsive Design */
 @media (max-width: 768px) {
   .stories-container {
     grid-template-columns: 1fr;
@@ -464,3 +462,18 @@ text-align: left;
     order: 2;
   }
 }
+
+.footer {
+  background: #00a4f8;
+  color: #fff;
+  padding: 2rem 1rem;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
