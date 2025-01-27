@@ -475,5 +475,25 @@ text-align: left;
   max-width: 1200px;
   margin: 0 auto;
 }
-
-
+.a{
+  text-decoration: none;
+  list-style: none;
+}
+.bangla{
+  color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+}
+.head{
+  color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 42.14px;
+font-weight: 700;
+line-height: 39.51px;
+letter-spacing: 0%;
+text-align: left;
+}
